@@ -1,0 +1,5 @@
+charAt();
+indexOf();
+trim();
+substring();
+toUpperCase();
